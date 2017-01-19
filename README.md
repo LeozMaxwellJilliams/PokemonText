@@ -1,0 +1,2 @@
+# PokemonText
+Text based Pokemon 
